@@ -1,0 +1,8 @@
+{
+  "name": "ATT-EndGame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:joelerll/ATT-EndGame.git",
+  "author": "Joel Rodriguez <joelerll@gmail.com>",
+  "license": "MIT"
+}
